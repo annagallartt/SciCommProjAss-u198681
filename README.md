@@ -22,6 +22,8 @@ In this code, all the functions required for the genetic algorithm have been des
 -	Reproduction + crossover
 
 This flowchart illustrates the procedure of the genetic algorithm system: 
+
+
 ![Imatge 29-5-23 a les 10 31 (1)](https://github.com/annagallartt/SciCommProjAss-u198681/assets/132344251/a683a41c-1c77-4abc-adb0-97fee97562f9)
 
 Figure 1 in: A Study on Genetic Algorithm and its Aplications. L. Haldurai, T. Madhubala and R. Rajalakshmi. 
