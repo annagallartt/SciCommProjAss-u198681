@@ -37,6 +37,7 @@ Figure 1 in: Genetic Algorithm, by Tom V.Mathew. The Working Principle of a Simp
 
 Bibliography:
 Mathew, T. V. (2012). Genetic algorithm. Report submitted at IIT Bombay, 53.
+
 Haldurai, L., Madhubala, T., & Rajalakshmi, R. (2016). A study on genetic algorithm and its  applications. Int. J. Comput. Sci. Eng, 4(10), 139-143.
 
 
