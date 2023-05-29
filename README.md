@@ -31,7 +31,7 @@ Figure 1 in: A Study on Genetic Algorithm and its Aplications. L. Haldurai, T. M
 In this other figure, we can see a pseudocode of the implementation of the genetic algorithm: 
 
 
-![Imatge 29-5-23 a les 10 14](https://github.com/annagallartt/SciCommProjAss-u198681/assets/132344251/5425efaf-58c5-4cae-8f3f-35e852f8dbb0)
+![Imatge 29-5-23 a les 10 14 (1)](https://github.com/annagallartt/SciCommProjAss-u198681/assets/132344251/7f6cd309-69de-410c-b18d-8dc8915ce131)
 
 Figure 1 in: Genetic Algorithm, by Tom V.Mathew. The Working Principle of a Simple Genetic Algorithm
 
