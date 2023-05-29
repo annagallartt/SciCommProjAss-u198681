@@ -35,14 +35,14 @@ In this other figure, we can see a pseudocode of the implementation of the genet
 
 Figure 1 in: Genetic Algorithm, by Tom V.Mathew. The Working Principle of a Simple Genetic Algorithm
 
-Bibliography:
+**Bibliography**:
 Mathew, T. V. (2012). Genetic algorithm. Report submitted at IIT Bombay, 53.
 
 Haldurai, L., Madhubala, T., & Rajalakshmi, R. (2016). A study on genetic algorithm and its  applications. Int. J. Comput. Sci. Eng, 4(10), 139-143.
 
 
 
-Author contact 
+**Author contact**
 Anna Gallart Serracanta
 C/Antic Camí del Mig, 50
 08349 Cabrera de Mar, Spain
